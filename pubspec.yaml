@@ -1,6 +1,6 @@
 name: date_text_input_formatter
 description: Package to format date on textfield/textformfield while typing.
-version: 0.0.1
+version: 0.0.2
 homepage: https://github.com/SirusCodes/date_text_input_formatter.git
 
 environment:
